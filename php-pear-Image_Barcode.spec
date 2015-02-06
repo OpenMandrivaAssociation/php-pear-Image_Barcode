@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	2
+Release:	3
 Summary:	Render barcodes
 License:	PHP License
 Group:		Development/PHP
