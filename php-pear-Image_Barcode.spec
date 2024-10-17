@@ -8,7 +8,7 @@ Release:	3
 Summary:	Render barcodes
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Image_Barcode/
+URL:		https://pear.php.net/package/Image_Barcode/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires:	php-gd
 Requires(post): php-pear
